@@ -1,3 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+
+  <head>      
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title> Template </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+  </head>    
+ 
+  <body>
 <!-- ### Hi there 👋
 
 
@@ -37,20 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html>
-
-  <head>      
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title> Template </title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width">
-  </head>    
- 
-  <body>
-
-  <!-- details -->
   
   </body>
 </html>
