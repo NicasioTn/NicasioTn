@@ -8,7 +8,7 @@ peter 🕸
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) Chanel : https://www.youtube.com/channel/UCRkoLiF6RtLRxKiYQiCLMnw/
+!https://www.youtube.com/channel/UCRkoLiF6RtLRxKiYQiCLMnw/[YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
 
 ### Studying 👋
 - 🌱 I’m currently learning - Mahasarakham University
