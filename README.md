@@ -24,6 +24,11 @@ Test1 | Test1 | Test1 | Test1 |
 Test2 | Test2 | Test2 | Test2 |
 Test3 | Test3 | Test3 | Test3 |
 
+```javascript
+function helloWorld () {
+console.log('Hello, World!');
+} ```
+
 <!--
 Here are some ideas to get you started:
 
