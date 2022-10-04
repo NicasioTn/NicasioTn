@@ -19,7 +19,7 @@ peter 🕸
 ### Book📖
 - 📄🐍 Python for Networking > Aj. suchart kummanee
 ### My Youtube Channel 😂🐇
-- ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) : [Link](https://www.youtube.com/channel/UCRkoLiF6RtLRxKiYQiCLMnw) 
+- ![YouTube](https://www.youtube.com/channel/UCRkoLiF6RtLRxKiYQiCLMnw=YouTube&logoColor=white)
 <!--
 Here are some ideas to get you started:
 
