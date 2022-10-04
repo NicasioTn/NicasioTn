@@ -1,5 +1,8 @@
 # Hi there 👋
 **NicasioTn/NicasioTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+# Listen Music with Me
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
+
 # Contact & Social
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
@@ -55,4 +58,3 @@ Python       2 repos        █░░░░░░░░░░░░░░░░�
 Dart         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
 CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
