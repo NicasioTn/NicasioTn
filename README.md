@@ -16,8 +16,6 @@
 ### My Youtube Channel 😂🐇
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCRkoLiF6RtLRxKiYQiCLMnw)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 Col1  | Col2  |  Col3 | Col4  |
 ----- | ----- | ----- | ----- |
 Test1 | Test1 | Test1 | Test1 |
@@ -41,3 +39,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+💻 Operating Systems:
+Windows                  8 hrs 46 mins       █████████████████████████   100.0%
+
+Vue          8 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java         6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+JavaScript   6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+PHP          3 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Python       2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Dart         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=default&show_offline=false&bar_color=146f71)](https://github.com/kittinan/spotify-github-profile)
