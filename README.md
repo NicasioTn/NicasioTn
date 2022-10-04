@@ -1,8 +1,8 @@
 # Hi there 👋
 <!-- 2+ line -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'am+NicasioTn+AKA+Peter;Second+line+of+text)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'am+NicasioTn+AKA+Peter;)](https://www.facebook.com/NicasioTn)
-[**NicasioTn/NicasioTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'am+NicasioTn+AKA+Peter;?color=36BCF7)](https://www.facebook.com/NicasioTn)
+[**NicasioTn/NicasioTn**] is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 # Listen Music with Me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
 
