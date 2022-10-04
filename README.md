@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-**NicasioTn/NicasioTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-#AKA
+** NicasioTn/NicasioTn ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+# AKA
 peter 🕸
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
