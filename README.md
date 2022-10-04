@@ -12,6 +12,10 @@ peter 🕸
  <a href="#">
     <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
+  <p align="left">
+  Badges go here
+</p>
+
 ### Studying 👋
 - 🌱 I’m currently learning - Mahasarakham University
 - 🧙‍♂️ Online course - TryHackMe
