@@ -29,6 +29,7 @@ function helloWorld () {
 console.log('Hello, World!');
 } 
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicasioTn&count_private=true)
 <!--
 Here are some ideas to get you started:
 
