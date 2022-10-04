@@ -14,7 +14,8 @@
 ### Book📖
 - 📄🐍 Python for Networking <Aj. suchart kummanee>
 ### My Youtube Channel 😂🐇
-- ![YouTube](https://www.youtube.com/channel/UCRkoLiF6RtLRxKiYQiCLMnw=YouTube&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![YouTube](https://www.youtube.com/channel/UCRkoLiF6RtLRxKiYQiCLMnw)
 
 
 
