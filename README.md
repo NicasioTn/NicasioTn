@@ -9,7 +9,7 @@ peter 🕸
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Youtube](https://www.youtube.com/channel/UCRkoLiF6RtLRxKiYQiCLMnw) 
+
 
 
 ### Studying 👋
@@ -18,7 +18,8 @@ peter 🕸
 - 🧙‍♂️ Online course - Python for Networking
 ### Book📖
 - 📄🐍 Python for Networking > Aj. suchart kummanee
-
+### Youtube Channel ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)UCRkoLiF6RtLRxKiYQiCLMnw) 
+- [Youtube](https://www.youtube.com/channel/
 <!--
 Here are some ideas to get you started:
 
