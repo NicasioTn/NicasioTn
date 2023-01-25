@@ -21,7 +21,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nicasiotn)
 
 <div id="header" align="center">
-  <link type="image/png" sizes="96x96" rel="icon" href=".../icons8-ssd-96.png">
+  ![image](https://user-images.githubusercontent.com/55986701/214563965-f6b444ca-0367-43f9-8bcc-66c8a0729107.png)
 </div>
 
 Col1  | Col2  |  Col3 | Col4  |
