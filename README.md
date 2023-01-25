@@ -17,10 +17,10 @@
 - 🧙‍♂️ Online course - Python for Networking
 ### Book📖
 - 📄🐍 Python for Networking <Aj. suchart kummanee>
-
+<!--
 ### My Youtube Channel 😂🐇
    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nicasiotn)
-
+-->
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="100"/>
    
