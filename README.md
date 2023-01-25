@@ -1,4 +1,6 @@
+<div align="center">
 # Hi there 👋 
+</div>
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?color=F70000&lines=Hi+I'am+NicasioTn+👋;)](https://www.facebook.com/NicasioTn)
 **NicasioTn/NicasioTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 # Listen Music with Me
