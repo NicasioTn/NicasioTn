@@ -47,9 +47,9 @@ console.log('Hello, World!');
 } 
 ```
 ```python
-function helloWorld () {
-console.log('Hello, World!');
-} 
+def helloWorld():
+   print("Hello, World")
+   return 0
 ```
 <!--
 Here are some ideas to get you started:
