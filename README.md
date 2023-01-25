@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-จุดอ่อน
+# Strengths 
 <div align="center">
    <img src="https://media.giphy.com/media/mQMBdfSFrvA7iZsWDH/giphy.gif" width="550"/><br>
 </div>
 
-จุดแข็ง
+# Weaknesses
 <div align="center">
    <img src="https://media.giphy.com/media/jtVp5M9kfWR0KtUp3f/giphy.gif" width="550"/><br>
 </div>
-** Language
+## Language
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
