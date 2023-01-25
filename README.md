@@ -26,7 +26,7 @@
 -->
 
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="500"/><br>
+   <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="550"/><br>
 </div>
 
 <div id="badges" align="center">
