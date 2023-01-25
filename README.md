@@ -65,5 +65,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+จุดอ่อน
+<div align="center">
+   <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="550"/><br>
+</div>
 
-
+จุดแข็ง
+<div align="center">
+   <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="550"/><br>
+</div>
