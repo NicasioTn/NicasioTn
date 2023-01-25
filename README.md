@@ -26,7 +26,7 @@
 -->
 
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="100"/><br>
 </div>
 
 <div id="badges" align="center">
@@ -46,7 +46,11 @@ function helloWorld () {
 console.log('Hello, World!');
 } 
 ```
-
+```python
+function helloWorld () {
+console.log('Hello, World!');
+} 
+```
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
