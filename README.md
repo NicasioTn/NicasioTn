@@ -4,12 +4,14 @@
 # Listen Music with Me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
 
+<!--
 # Contact & Social
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+-->
 
 ### Studying 👋
 - 🌱 I’m currently learning - Mahasarakham University
@@ -17,10 +19,12 @@
 - 🧙‍♂️ Online course - Python for Networking
 ### Book📖
 - 📄🐍 Python for Networking <Aj. suchart kummanee>
+- 
 <!--
 ### My Youtube Channel 😂🐇
    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nicasiotn)
 -->
+
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="100"/>
 </div>
@@ -33,7 +37,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube NicasioTn"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-%23FF0000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
