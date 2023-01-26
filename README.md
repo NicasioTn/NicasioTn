@@ -75,6 +75,18 @@ Here are some ideas to get you started:
    <img src="https://media.giphy.com/media/jtVp5M9kfWR0KtUp3f/giphy.gif" width="550"/><br>
 </div>
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
 # Language
 
 <div>
