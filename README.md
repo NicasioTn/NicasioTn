@@ -65,15 +65,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# TryHackMe Certify
+
+
+# Achievement
+## TryHackMe Certify
 <div align="center">
    <img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="550"/><br>
 </div>
-
-# Weaknesses
+## MU Penetration Testing
 <div align="center">
-   <img src="https://media.giphy.com/media/jtVp5M9kfWR0KtUp3f/giphy.gif" width="550"/><br>
+   <img src="https://user-images.githubusercontent.com/55986701/217346634-ff7b56ad-d738-41c6-a747-2065baab4280.jpg" width="550"/><br>
 </div>
+## KU Coding for Option on GTA V
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="550"/><br>
+</div>
+## Chula Mooc
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="550"/><br>
+</div>
+
+
+
 
 <details><summary>CLICK ME</summary>
 <p>
