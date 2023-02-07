@@ -86,7 +86,7 @@ Here are some ideas to get you started:
    <img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
 </div>
 -->
-<!-- Table -->
+<!-- Table of Achievement -->
 <div>
     <table class="styled">
     <tr>
@@ -94,6 +94,12 @@ Here are some ideas to get you started:
         <td><img src="https://user-images.githubusercontent.com/55986701/217346634-ff7b56ad-d738-41c6-a747-2065baab4280.jpg" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
+    </tr>
+    <tr>
+       <td><p>TryHackMe Certify</p>
+       <td><p>MU Penetration Testing</p>
+       <td><p>KU Coding for Option on GTA V</p>
+       <td><p>Chula Mooc Basic Python</p>
     </tr>
     </table>
 </div>
