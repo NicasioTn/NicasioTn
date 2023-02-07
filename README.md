@@ -15,12 +15,18 @@
 -->
 
 ### Studying 👋
-- 🌱 I’m currently learning - Mahasarakham University
+- 🌱 I’m studying at - Mahasarakham University
 - 🧙‍♂️ Online course - TryHackMe
 - 🧙‍♂️ Online course - Python for Networking
-### Book📖
-- 📄🐍 Python for Networking <Aj. suchart kummanee>
-- 
+- 💻 Online course - Google | True x Samart Skills
+- ⚔️ Online course - NCSA CyberSecurity MOOC
+- 👨🏻‍🏫 Online course - Mahidol MOOC
+- 👨🏻‍🏫 Online course - Chula MOOC
+### Fogus & Interested 📖
+- 📄🐍 Python for Networking 
+- ⚔️ 🛡 CyberSecurity Red & Blue
+- 🪟 Network Admin
+- 📃 Command Script 
 <!--
 ### My Youtube Channel 😂🐇
    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nicasiotn)
