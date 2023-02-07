@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Strengths 
+# TryHackMe Certify
 <div align="center">
-   <img src="https://media.giphy.com/media/mQMBdfSFrvA7iZsWDH/giphy.gif" width="550"/><br>
+   <img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="550"/><br>
 </div>
 
 # Weaknesses
