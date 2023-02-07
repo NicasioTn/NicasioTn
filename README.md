@@ -113,9 +113,19 @@ Here are some ideas to get you started:
     </table>
 </div>
 
-<details><summary>CLICK ME</summary>
-<p>
-
+<details><summary> More </summary>
+<div>
+    <table class="styled" align="center">
+    <tr align="center">
+       <td><img src="https://user-images.githubusercontent.com/55986701/217353352-1984907d-9f12-45bb-b83e-1c188205ac14.png" width="300"/><br>
+       <td><img src="https://user-images.githubusercontent.com/55986701/217353641-84055723-b883-4390-82f9-47bfdcd438a0.png" width="300"/><br>
+    </tr>
+    <tr align="center">
+    <td>Pre Security Learning Path</p>
+    <td>Introduction Cyber Security Learning Path</p>
+    </tr>
+    </table>
+</div>
 #### We can hide anything, even code!
 
 ```ruby
