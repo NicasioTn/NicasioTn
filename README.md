@@ -85,6 +85,32 @@ Here are some ideas to get you started:
    <img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
 </div>
 
+<div>
+    <table class="styled">
+    <tr>
+        <td><button type="button">Click Me!</button></td>
+        <td><button type="button">Click Me!</button></td>
+        <td><button type="button">Click Me!</button></td>
+    </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td><button type="button">Click Me!</button></td>
+        </tr>
+    </table>
+
+    <img src="rais_globe.png" alt="rais_logo" height="420" width="420">
+
+    <table>
+        <tr>
+            <td><button type="button">Click Me!</button></td>
+        </tr>
+    </table>
+
+</div>
 
 
 
