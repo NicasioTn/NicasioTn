@@ -88,14 +88,14 @@ Here are some ideas to get you started:
 -->
 <!-- Table of Achievement -->
 <div>
-    <table class="styled">
-    <tr>
+    <table class="styled" align="center">
+    <tr align="center">
         <td><img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/217346634-ff7b56ad-d738-41c6-a747-2065baab4280.jpg" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
     </tr>
-    <tr>
+    <tr align="center">
        <td><p>TryHackMe Certify</p>
        <td><p>MU Penetration Testing</p>
        <td><p>KU Coding for Option on GTA V</p>
