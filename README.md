@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 
 
 # Achievement
+<!--
 - TryHackMe Certify
 <div align="center">
    <img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="300"/><br>
@@ -84,13 +85,15 @@ Here are some ideas to get you started:
 <div align="center">
    <img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
 </div>
-
+-->
+<!-- Table -->
 <div>
     <table class="styled">
     <tr>
-        <td><button type="button">Click Me!</button></td>
-        <td><button type="button">Click Me!</button></td>
-        <td><button type="button">Click Me!</button></td>
+        <td><img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="300"/><br>
+        <td><img src="https://user-images.githubusercontent.com/55986701/217346634-ff7b56ad-d738-41c6-a747-2065baab4280.jpg" width="300"/><br>
+        <td><img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="300"/><br>
+        <td><img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
     </tr>
     </table>
 </div>
