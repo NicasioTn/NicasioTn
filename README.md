@@ -141,10 +141,12 @@ Here are some ideas to get you started:
     <tr align="center">
        <td><img src="https://user-images.githubusercontent.com/55986701/217353352-1984907d-9f12-45bb-b83e-1c188205ac14.png" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/217353641-84055723-b883-4390-82f9-47bfdcd438a0.png" width="300"/><br>
+       <td><img src="https://user-images.githubusercontent.com/55986701/241420321-423ff833-3f4d-4b09-9588-21441177b70a.png" width="300"/><br>
     </tr>
     <tr align="center">
     <td>Pre Security Learning Path</p>
     <td>Introduction Cyber Security Learning Path</p>
+    <td>NCSA Training</p>
     </tr>
     </table>
 </div>
