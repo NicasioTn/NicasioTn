@@ -128,7 +128,7 @@ Here are some ideas to get you started:
     </tr>
     <tr align="center">
        <td><p>Github for Dev</p>
-       <td><p>Commandline 101</p>
+       <td><p>Command Prompt 101</p>
        <td><p>ChatGPT for Dev</p>
        <td><p>Foundamentals of Graphic Design</p>
     </tr>
