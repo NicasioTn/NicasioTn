@@ -112,7 +112,7 @@ Here are some ideas to get you started:
        <td><img src="https://user-images.githubusercontent.com/55986701/217350570-3d736251-1b00-4d86-94d5-08c098da35a2.jpg" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/217352434-ac0a8b8a-7593-46d3-b31a-4753945e53df.jpg" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/388eeca3-7b58-4d64-8d31-5205862ece56.png" width="300"/><br>
-       <td><img src="https://user-images.githubusercontent.com/55986701/2b92abe6-3b22-4553-9517-91f4c78320cf.png" width="300"/><br>
+       <td><img src="https://user-images.githubusercontent.com/55986701/d5ec48c4-50a3-4cf7-acc6-ef85dcae914f.png" width="300"/><br>
     </tr>
     <tr align="center">
       <td>Ethical Hacking Workshops</p>
