@@ -22,11 +22,14 @@
 - ⚔️ Online course - NCSA CyberSecurity MOOC
 - 👨🏻‍🏫 Online course - Mahidol MOOC
 - 👨🏻‍🏫 Online course - Chula MOOC
+- 🖥️ Online course - Born to Dev
 ### Fogus & Interested 📖
 - 📄🐍 Python for Networking 
 - ⚔️ 🛡 CyberSecurity Red & Blue
 - 🪟 Network Admin
 - 📃 Command Script 
+- 🎮📽️ Game & Video Creator
+
 <!--
 ### My Youtube Channel 😂🐇
    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nicasiotn)
