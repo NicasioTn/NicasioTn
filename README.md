@@ -111,10 +111,12 @@ Here are some ideas to get you started:
     <tr align="center">
        <td><img src="https://user-images.githubusercontent.com/55986701/217350570-3d736251-1b00-4d86-94d5-08c098da35a2.jpg" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/217352434-ac0a8b8a-7593-46d3-b31a-4753945e53df.jpg" width="300"/><br>
+       <td><img src="https://user-images.githubusercontent.com/55986701/217352434-ac0a8b8a-7593-46d3-b31a-4753945e53df.jpg" width="300"/><br>
     </tr>
     <tr align="center">
       <td>Ethical Hacking Workshops</p>
       <td>Google IT Automation with Python</p>
+      <td>MU English Speack-listening</p>
     </tr>
     </table>
 </div>
