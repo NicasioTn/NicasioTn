@@ -111,8 +111,8 @@ Here are some ideas to get you started:
     <tr align="center">
        <td><img src="https://user-images.githubusercontent.com/55986701/217350570-3d736251-1b00-4d86-94d5-08c098da35a2.jpg" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/217352434-ac0a8b8a-7593-46d3-b31a-4753945e53df.jpg" width="300"/><br>
-       <td><img src="https://user-images.githubusercontent.com/55986701/69ef8d23-72f5-4ffe-b90d-ecc8c57a084c.png" width="300"/><br>
-       <td><img src="https://user-images.githubusercontent.com/55986701/f44a6916-16fb-483f-8669-77372fca54c2.png" width="300"/><br>
+       <td><img src="https://user-images.githubusercontent.com/55986701/388eeca3-7b58-4d64-8d31-5205862ece56.png" width="300"/><br>
+       <td><img src="https://user-images.githubusercontent.com/55986701/2b92abe6-3b22-4553-9517-91f4c78320cf.png" width="300"/><br>
     </tr>
     <tr align="center">
       <td>Ethical Hacking Workshops</p>
