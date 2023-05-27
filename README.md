@@ -113,8 +113,6 @@ Here are some ideas to get you started:
        <td><img src="https://user-images.githubusercontent.com/55986701/217352434-ac0a8b8a-7593-46d3-b31a-4753945e53df.jpg" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/241412887-80aa4bf1-40a5-494e-b1fe-55f13e03e1ec.png" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/241412896-3ef8bb53-e59a-40fb-bf80-58227175c1bc.png" width="300"/><br>
-       ![image](https://github.com/NicasioTn/NicasioTn/assets/55986701/80aa4bf1-40a5-494e-b1fe-55f13e03e1ec)
-       ![image](https://github.com/NicasioTn/NicasioTn/assets/55986701/3ef8bb53-e59a-40fb-bf80-58227175c1bc)
     </tr>
     <tr align="center">
       <td>Ethical Hacking Workshops</p>
