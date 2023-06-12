@@ -60,7 +60,7 @@ function helloWorld () {
 } 
 ```
 ```python
-def WelcomeToMyProfile():
+def welcomeToMyProfile():
    print("Hello, Let's me intoduce myself✨")
    return 0
 ```
