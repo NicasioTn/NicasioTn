@@ -56,12 +56,12 @@
 
 ```javascript
 function helloWorld () {
-console.log('Hello, World!');
+   console.log('Hello, My Visitor!');
 } 
 ```
 ```python
-def helloWorld():
-   print("Hello, World")
+def WelcomeToMyProfile():
+   print("Hello, Let's me intoduce myself✨")
    return 0
 ```
 <!--
