@@ -135,7 +135,12 @@ Here are some ideas to get you started:
        <td><p>ChatGPT for Dev</p>
        <td><p>Foundamentals of Graphic Design</p>
     </tr>
+    <tr align="center">
+        <td><img src="https://user-images.githubusercontent.com/55986701/245218714-2ace77fd-7282-4adc-a704-cad70d729e27.png" width="300"/><br>
     </table>
+    <tr align="center">
+       <td><p>IC3 Digital Literacy</p>
+    </tr>
 </div>
 
 <details><summary> More </summary>
