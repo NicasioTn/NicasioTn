@@ -203,3 +203,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
 # In progress and follow up, wait for feedback
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxMXVlcmZ3eWIzcWdqeTRjNXV6Y2Izd2JsZHN0dGE2NnBlb21nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25RMCYnFKmiCzMFTGd/giphy.gif" width="550"/><br>
+</div>
