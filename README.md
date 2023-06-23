@@ -64,6 +64,9 @@ def welcomeToMyProfile():
    print("Hello, Let's me intoduce myself✨")
    return 0
 ```
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/hrnD3wfm4WEst3cZEV/giphy.gif" width="550"/><br>
+</div>
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
