@@ -2,6 +2,9 @@
 
 **NicasioTn/NicasioTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
+<!-- 
+ -------------------------------------------------------------------------- Spotify --------------------------------------------------------------------------
+-->
 # Listen Music with Me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
 
@@ -14,6 +17,9 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 -->
 
+<!-- 
+ -------------------------------------------------------------------------- Detail of Study and Interested --------------------------------------------------------------------------
+-->
 ### Studying 👋
 - 🌱 I’m studying at - Mahasarakham University
 - 🧙‍♂️ Online course - TryHackMe
@@ -36,7 +42,7 @@
 -->
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?color=F70000&lines=Hi+I'am+NicasioTn+👋;)](https://www.facebook.com/NicasioTn)
 <!-- 
-  Spider-Man Image
+ -------------------------------------------------------------------------- Spider-Man Image --------------------------------------------------------------------------
 -->
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="550"/><br>
@@ -99,7 +105,9 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<!-- Table of Achievement -->
+<!-- 
+ -------------------------------------------------------------------------- Table of Achievement --------------------------------------------------------------------------
+-->
 <div>
     <table class="styled" align="center">
     <tr align="center">
@@ -170,6 +178,9 @@ Here are some ideas to get you started:
 </p>
 </details>
 
+<!-- 
+ -------------------------------------------------------------------------- Language --------------------------------------------------------------------------
+-->
 # Language
 
 <div>
@@ -201,6 +212,9 @@ Here are some ideas to get you started:
 
 # Stat
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+-->
+<!-- 
+ -------------------------------------------------------------------------- In progress and follow up, wait for feedback --------------------------------------------------------------------------
 -->
 # In progress and follow up, wait for feedback
 <div id="header" align="center">
