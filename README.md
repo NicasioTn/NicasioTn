@@ -5,7 +5,7 @@
 <!-- 
  -------------------------------------------------------------------------- Spotify --------------------------------------------------------------------------
 -->
-# Listen Music with Me
+# 🎧 Listen Music with Me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
 
 <!--
@@ -25,7 +25,7 @@ I am a .... from Com-Sci Mahasarakham University
 * ⚡In my free time , I learning about Network Security on online course and read tech articals.
 * 😄 Pronouns: Peter !🕸️🕷️
 
-### Studying 👋
+### 🏫 Studying 👋
 - 🌱 I’m studying at - Mahasarakham University
 - 🧙‍♂️ Online course - TryHackMe
 - 🧙‍♂️ Online course - Python for Networking
@@ -34,25 +34,22 @@ I am a .... from Com-Sci Mahasarakham University
 - 👨🏻‍🏫 Online course - Mahidol MOOC
 - 👨🏻‍🏫 Online course - Chula MOOC
 - 🖥️ Online course - Born to Dev
-### Fogus & Interested 📖
+### 👀 Fogus & Interested 📖
 - 📄🐍 Python for Networking 
 - ⚔️ 🛡 CyberSecurity Red & Blue
 - 🪟 Network Admin
 - 📃 Command Script 
 - 🎮📽️ Game & Video Creator
-
-<!--
-### My Youtube Channel 😂🐇
-   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nicasiotn)
--->
+  
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?color=F70000&lines=Hi+I'am+NicasioTn+👋;)](https://www.facebook.com/NicasioTn)
 <!-- 
  -------------------------------------------------------------------------- Spider-Man Image --------------------------------------------------------------------------
 -->
+<!-- Picture -->
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="550"/><br>
 </div>
-
+<!-- Link facebook, youtube ch, Discord -->
 <div id="badges" align="center">
   <a href="https://www.facebook.com/NicasioTn">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook NicasioTn"/>
@@ -90,26 +87,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Achievement
-<!--
-- TryHackMe Certify
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="300"/><br>
-</div>
-- MU Penetration Testing
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/55986701/217346634-ff7b56ad-d738-41c6-a747-2065baab4280.jpg" width="300"/><br>
-</div>
-- KU Coding for Option on GTA V
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="300"/><br>
-</div>
-- Chula Mooc Basic Python
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
-</div>
--->
-
+# 🏆 Achievement
 <!-- 
  -------------------------------------------------------------------------- Table of Achievement --------------------------------------------------------------------------
 -->
@@ -159,7 +137,7 @@ Here are some ideas to get you started:
     </table>
 </div>
 
-<details><summary> More </summary>
+<details><summary> 🎖️ More </summary>
 <div>
     <table class="styled" align="center">
     <tr align="center">
