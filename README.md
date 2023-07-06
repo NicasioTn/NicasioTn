@@ -20,7 +20,7 @@
 <!-- 
  -------------------------------------------------------------------------- Detail of Study and Interested --------------------------------------------------------------------------
 -->
-### 🧑‍💻✨ About me :
+### 🧑‍💻 About me :
 I am a .... from Com-Sci Mahasarakham University
 * ⚡In my free time , I learning about Network Security on online course and read tech articals.
 * 😄 Pronouns: Peter !🕸️🕷️
