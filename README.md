@@ -20,6 +20,11 @@
 <!-- 
  -------------------------------------------------------------------------- Detail of Study and Interested --------------------------------------------------------------------------
 -->
+### 🧑‍💻✨ About me :
+I am a .... from Com-Sci Mahasarakham University
+* ⚡In my free time , I learning about Network Security on online course and read tech articals.
+* 😄 Pronouns: Peter !🕸️🕷️
+
 ### Studying 👋
 - 🌱 I’m studying at - Mahasarakham University
 - 🧙‍♂️ Online course - TryHackMe
@@ -181,7 +186,7 @@ Here are some ideas to get you started:
 <!-- 
  -------------------------------------------------------------------------- Language --------------------------------------------------------------------------
 -->
-# Language
+# ⚒️ Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -202,6 +207,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
 </div>
 
 <!-- 
@@ -216,7 +222,7 @@ Here are some ideas to get you started:
 <!-- 
  -------------------------------------------------------------------------- In progress and follow up, wait for feedback --------------------------------------------------------------------------
 -->
-# In progress and follow up, wait for feedback
+# ☃️ In progress and follow up, wait for feedback
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxMXVlcmZ3eWIzcWdqeTRjNXV6Y2Izd2JsZHN0dGE2NnBlb21nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25RMCYnFKmiCzMFTGd/giphy.gif" width="550"/><br>
 </div>
