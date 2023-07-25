@@ -57,7 +57,7 @@ I am a .... from Com-Sci Mahasarakham University
   <a href="https://www.youtube.com/@nicasiotn">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube NicasioTn"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="[your-twitter-URL](https://steamcommunity.com/profiles/76561198989529071/)">
     <img src="https://img.shields.io/badge/Discord-%231877F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
