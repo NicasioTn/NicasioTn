@@ -154,13 +154,6 @@ Here are some ideas to get you started:
     </tr>
     </table>
 </div>
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
-</p>
 </details>
 
 <!-- 
