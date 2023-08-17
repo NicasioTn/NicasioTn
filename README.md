@@ -22,7 +22,7 @@
 -->
 ### 🧑‍💻 About me :
 I am a .... from Com-Sci Mahasarakham University
-* ⚡In my free time , I learning about Network Security on online course and read tech articals.
+* ⚡In my free time, I'm learning about Network Security on an online course and reading tech articles.
 * 😄 Pronouns: Peter !🕸️🕷️
 
 ### 🏫 Studying 👋
@@ -49,7 +49,7 @@ I am a .... from Com-Sci Mahasarakham University
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="550"/><br>
 </div>
-<!-- Link facebook, youtube ch, Discord -->
+<!-- Link Facebook, youtube ch, Discord -->
 <div id="badges" align="center">
   <a href="https://www.facebook.com/NicasioTn">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook NicasioTn"/>
@@ -69,12 +69,14 @@ function helloWorld () {
 ```
 ```python
 def welcomeToMyProfile():
-   print("Hello, Let's me intoduce myself✨")
+   print("Hello, Let's me introduce myself✨")
    return 0
 ```
+<!--
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/hrnD3wfm4WEst3cZEV/giphy.gif" width="550"/><br>
 </div>
+-->
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
