@@ -182,6 +182,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <br>
 </div>
 
+![image](https://github.com/NicasioTn/NicasioTn/assets/55986701/35bdb038-9373-4c7d-b296-857d5ab690aa)
+
 <!-- 
 
 - [x] #739
