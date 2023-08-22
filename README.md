@@ -74,7 +74,7 @@ def welcomeToMyProfile():
 ```
 
 <div>
- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64e2f567ced78d293533e700?variant=dark&roadmaps=cyber-security" alt="roadmap.sh" width="300"/></a>
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64e2f567ced78d293533e700?variant=dark&roadmaps=cyber-security" alt="roadmap.sh" width="720"/></a>
 </div>
 <!--
 <div id="header" align="center">
