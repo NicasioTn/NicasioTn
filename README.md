@@ -73,7 +73,9 @@ def welcomeToMyProfile():
    return 0
 ```
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e2f567ced78d293533e700?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
+<div>
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64e2f567ced78d293533e700?variant=dark&roadmaps=cyber-security" alt="roadmap.sh" width="300"/></a>
+</div>
 <!--
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/hrnD3wfm4WEst3cZEV/giphy.gif" width="550"/><br>
