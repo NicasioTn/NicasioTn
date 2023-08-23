@@ -41,6 +41,9 @@ I am a .... from Com-Sci Mahasarakham University
 - 📃 Command Script 
 - 🎮📽️ Game & Video Creator
   
+### Call to Mind
+🧑‍💻🚀 Keep Trying, Keep Working :)
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?color=F70000&lines=Hi+I'am+NicasioTn+👋;)](https://www.facebook.com/NicasioTn)
 <!-- 
  -------------------------------------------------------------------------- Spider-Man Image --------------------------------------------------------------------------
