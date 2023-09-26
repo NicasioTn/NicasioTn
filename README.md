@@ -75,9 +75,8 @@ def welcomeToMyProfile():
    print("Hello, Let's me introduce myself✨")
    return 0
 ```
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e2f567ced78d293533e700?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
 <div align="center">
- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64e2f567ced78d293533e700?variant=dark&roadmaps=cyber-security" alt="roadmap.sh" width="720"/></a>
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64e2f567ced78d293533e700?variant=dark&roadmaps=cyber-security" alt="roadmap.sh"/></a>
 </div>
 <!--
 <div id="header" align="center">
