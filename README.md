@@ -52,7 +52,7 @@ I am a .... from Com-Sci Mahasarakham University
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="550"/><br>
 </div>
-<!-- Link Facebook, youtube ch, Discord -->
+<!-- Link Facebook, Youtube channel, Discord -->
 <div id="badges" align="center">
   <a href="https://www.facebook.com/NicasioTn">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook NicasioTn"/>
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
        <td><p>TryHackMe Certify</p>
        <td><p>MU Penetration Testing</p>
        <td><p>KU Coding for Option on GTA V</p>
-       <td><p>Chula Mooc Basic Python</p>
+       <td><p>NCSA MOOC Basic Cybersecurity</p>
     </tr>
     <tr align="center">
        <td><img src="https://user-images.githubusercontent.com/55986701/217350570-3d736251-1b00-4d86-94d5-08c098da35a2.jpg" width="300"/><br>
@@ -143,6 +143,7 @@ Here are some ideas to get you started:
         <td><img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
     <tr align="center">
        <td><p>IC3 Digital Literacy</p>
+        <td><p>Chula Mooc Basic Python</p>
     </tr>
     </table>
 </div>
