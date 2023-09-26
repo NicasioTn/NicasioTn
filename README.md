@@ -105,23 +105,23 @@ Here are some ideas to get you started:
     <tr align="center">
         <td><img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/217346634-ff7b56ad-d738-41c6-a747-2065baab4280.jpg" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="300"/><br>
+        <td><img src="https://user-images.githubusercontent.com/55986701/217350570-3d736251-1b00-4d86-94d5-08c098da35a2.jpg" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/270729494-07529b69-3c25-4038-9a24-f3259fbad87e.png" width="300"/><br>
     </tr>
     <tr align="center">
        <td><p>TryHackMe Certify</p>
        <td><p>MU Penetration Testing</p>
-       <td><p>KU Coding for Option on GTA V</p>
+        <td>Ethical Hacking Workshops</p>
        <td><p>NCSA MOOC Basic Cybersecurity</p>
     </tr>
     <tr align="center">
-       <td><img src="https://user-images.githubusercontent.com/55986701/217350570-3d736251-1b00-4d86-94d5-08c098da35a2.jpg" width="300"/><br>
+       <td><img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/217352434-ac0a8b8a-7593-46d3-b31a-4753945e53df.jpg" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/241412887-80aa4bf1-40a5-494e-b1fe-55f13e03e1ec.png" width="300"/><br>
        <td><img src="https://user-images.githubusercontent.com/55986701/241412896-3ef8bb53-e59a-40fb-bf80-58227175c1bc.png" width="300"/><br>
     </tr>
     <tr align="center">
-      <td>Ethical Hacking Workshops</p>
+      <td><p>KU Coding for Option on GTA V</p>
       <td>Google IT Automation with Python</p>
       <td>MU English Speack-listening</p>
       <td>AIS อุ่นใจ Cyber </p>
