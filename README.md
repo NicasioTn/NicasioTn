@@ -106,7 +106,7 @@ Here are some ideas to get you started:
         <td><img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/217346634-ff7b56ad-d738-41c6-a747-2065baab4280.jpg" width="300"/><br>
         <td><img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
+        <td><img src="https://user-images.githubusercontent.com/55986701/270729494-07529b69-3c25-4038-9a24-f3259fbad87e.png" width="300"/><br>
     </tr>
     <tr align="center">
        <td><p>TryHackMe Certify</p>
@@ -140,6 +140,7 @@ Here are some ideas to get you started:
     </tr>
     <tr align="center">
         <td><img src="https://user-images.githubusercontent.com/55986701/245218714-2ace77fd-7282-4adc-a704-cad70d729e27.png" width="300"/><br>
+        <td><img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
     <tr align="center">
        <td><p>IC3 Digital Literacy</p>
     </tr>
