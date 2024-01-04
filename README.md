@@ -209,7 +209,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="[https://www.facebook.com/NicasioTn](https://www.buymeacoffee.com/nicasiotn)">
+  <a href="https://www.buymeacoffee.com/nicasiotn">
     <img src="https://user-images.githubusercontent.com/55986701/294094179-0c06d90e-03d4-4839-a4e9-f353b3ae228c.png" alt="NicasioTn"/>
   </a>
 </div>
