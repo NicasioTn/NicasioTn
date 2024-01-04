@@ -208,6 +208,7 @@ Here are some ideas to get you started:
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxMXVlcmZ3eWIzcWdqeTRjNXV6Y2Izd2JsZHN0dGE2NnBlb21nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25RMCYnFKmiCzMFTGd/giphy.gif" width="550"/><br>
 </div>
 
+# 💰 Support Me
 <div id="badges" align="center">
   <a href="https://www.buymeacoffee.com/nicasiotn">
     <img src="https://user-images.githubusercontent.com/55986701/294094179-0c06d90e-03d4-4839-a4e9-f353b3ae228c.png" alt="NicasioTn"/>
