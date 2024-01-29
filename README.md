@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <h1>Welcome to The Profile!</h1>
+   <h1>สวัสดี(sà-wàt-dee), Welcome to The Profile!</h1>
 </div>
 
 <!------------------------------------------------ Picture Spider-Man Image -------------------------------------------------------------------------- -->
@@ -20,53 +20,59 @@ I am a .... from Com-Sci Mahasarakham University
 ### 🏫 Studying 👋
 - 🌱 I’m studying at - Mahasarakham University
 - 🧙‍♂️ Online course - TryHackMe | Programing with Networking | Google True x Samart Skills | NCSA CyberSecurity MOOC | born to Dev
-  
+
+<!---------------------------------------------------------------------------- Spotify ---------------------------------------------------------------------------->
+# 🎧 Listen to Music with Me
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show&_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
+
 # 🏆 Achievement
 <!-- -------------------------------------------------------------------------- Table of Achievement -------------------------------------------------------------------------- -->
-<!--
-<div>
-    <table class="styled" align="center">
-    <tr align="center">
-        <td><img src="https://user-images.githubusercontent.com/55986701/217346144-2116d81a-4396-41d7-ab97-14adb01e9267.png" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/217346634-ff7b56ad-d738-41c6-a747-2065baab4280.jpg" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/217350570-3d736251-1b00-4d86-94d5-08c098da35a2.jpg" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/270729494-07529b69-3c25-4038-9a24-f3259fbad87e.png" width="300"/><br>
-    </tr>
-    <tr align="center">
-       <td><p>TryHackMe Certify</p>
-       <td><p>MU Penetration Testing</p>
-        <td>Ethical Hacking Workshops</p>
-       <td><p>NCSA MOOC Basic Cybersecurity</p>
-    </tr>
-    </table>
-</div>
-
-<details><summary> More ⛱️ </summary>
-<div>
-    <table class="styled" align="center">
-    <tr align="center">
-       <td>1<br>
-       <td>2<br>
-       <td>3<br>
-    </tr>
-    <tr align="center">
-    <td>Pre Security Learning Path</p>
-    <td>Introduction Cyber Security Learning Path</p>
-    <td>NCSA Training</p>
-    </tr>
-    </table>
-</div>
-</details>
--->
-
-<!-- ------------------------------------------------------------------- Roadmap Learning Path -------------------------------------------------------------------- -->
 <div align="center">
-   <hr>
    <h3> Tryhackme </h3>
          <a href="https://tryhackme.com/p/nicasio.tn" target="_blank">
             <img src="https://tryhackme-badges.s3.amazonaws.com/nicasio.tn.png" width="300px" alt="TryHackMe"/>
          </a>
-   <h3> Roadmap.sh </h3>
+   <hr>
+</div>
+
+<div>
+    <table class="styled" align="center">
+       <tr align="center">
+           <td><img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="300"/><br>
+           <td><img src="https://tryhackme.com/img/badges/owasptop10.svg" width="300"/>
+           <td><img src="https://tryhackme.com/img/badges/adventofcyber4.svg" width="300"/>
+           <td><img src="https://tryhackme.com/img/badges/hashcracker.svg" width="300"/>
+       </tr>
+       <tr align="center">
+          <td><p>Pentesting Principles</p>
+          <td><p>OWASP Top 10</p>
+          <td><p>Advent of Cyber 4</p>
+          <td><p>Hash Cracker</p>
+       </tr>
+    </table>
+</div>
+
+<details><summary> More ❄️⛄ </summary>
+<div>
+    <table class="styled" align="center">
+       <tr align="center">
+          <td><img src="https://tryhackme.com/img/badges/advancedelk.svg" width="100"/>
+          <td><img src="https://tryhackme.com/img/badges/linux.svg" width="100"/>
+          <td><img src="https://tryhackme.com/img/badges/threathunting.svg" width="100"/>
+       </tr>
+       <tr align="center">
+          <td>ELKsquisite</p>
+          <td>cat linux.txt</p>
+          <td>Threat Hunter</p>
+       </tr>
+    </table>
+</div>
+</details>
+
+<!-- ------------------------------------------------------------------- Roadmap Learning Path -------------------------------------------------------------------- -->
+<div align="center">
+   <hr>
+      <h3> Roadmap.sh </h3>
          <a href="https://roadmap.sh" target="_blank">
             <img src="https://api.roadmap.sh/v1-badge/wide/64e2f567ced78d293533e700?variant=dark" alt="roadmap.sh"/>
          </a>
@@ -104,10 +110,6 @@ I am a .... from Com-Sci Mahasarakham University
     <img src="https://profile-counter.glitch.me/NicasioTn/count.svg">
    </a>
 </div>
-
-<!---------------------------------------------------------------------------- Spotify ---------------------------------------------------------------------------->
-# 🎧 Listen to Music with Me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
 
 <!---------------------------------------------------------------------------- Support ---------------------------------------------------------------------------->
 # 💰 Support Me
