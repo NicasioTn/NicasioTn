@@ -5,7 +5,7 @@
 <!------------------------------------------------ Picture Spider-Man Image -------------------------------------------------------------------------- -->
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="1050"/><br>
-   <h3>🤔 Wh0aml ?: ❤️🕸️🌀 "NicasioTn" </h3>
+   <h3>🤔 Wh0am1 ?: ❤️🕸️🌀 "NicasioTn" </h3>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=1345b7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science%F0%9F%92%BB;A+Cyber+Security🏅;)](https://git.io/typing-svg)
