@@ -1,9 +1,6 @@
 <div id="header" align="center">
-   <h1>W3C0M3 2 MY PR0F1L3</h1>
+   <h1>Welcome to The Profile!</h1>
 </div>
-
-<!-- **NicasioTn/NicasioTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
-<!--### [![Typing SVG](https://readme-typing-svg.demolab.com/?color=F70000&lines=Hi+I+am+NicasioTn+🕸️;)](https://www.facebook.com/NicasioTn) -->
 
 <!------------------------------------------------ Picture Spider-Man Image -------------------------------------------------------------------------- -->
 <div id="header" align="center">
@@ -11,9 +8,7 @@
    <h3>🤔 Wh0aml ?: ❤️🕸️🌀 "NicasioTn" </h3>
 </div>
 
-<!---------------------------------------------------------------------------- Spotify ---------------------------------------------------------------------------->
-# 🎧 Listen to Music with Me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=1345b7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science%F0%9F%92%BB;A+Cyber+Security🏅;)](https://git.io/typing-svg)
 
 <!--  -------------------------------------------------------------------------- Detail of Study and Interested ---------------------------------------------------------------------------->
 ### 🧑‍💻 About me :
@@ -43,47 +38,16 @@ I am a .... from Com-Sci Mahasarakham University
         <td>Ethical Hacking Workshops</p>
        <td><p>NCSA MOOC Basic Cybersecurity</p>
     </tr>
-    <tr align="center">
-       <td><img src="https://user-images.githubusercontent.com/55986701/217346952-dc0a03ff-35c6-4de2-ad25-fcddb7aa3875.jpg" width="300"/><br>
-       <td><img src="https://user-images.githubusercontent.com/55986701/217352434-ac0a8b8a-7593-46d3-b31a-4753945e53df.jpg" width="300"/><br>
-       <td><img src="https://user-images.githubusercontent.com/55986701/241412887-80aa4bf1-40a5-494e-b1fe-55f13e03e1ec.png" width="300"/><br>
-       <td><img src="https://user-images.githubusercontent.com/55986701/241412896-3ef8bb53-e59a-40fb-bf80-58227175c1bc.png" width="300"/><br>
-    </tr>
-    <tr align="center">
-      <td><p>KU Coding for Option on GTA V</p>
-      <td>Google IT Automation with Python</p>
-      <td>MU English Speack-listening</p>
-      <td>AIS อุ่นใจ Cyber </p>
-    </tr>
-    <tr align="center">
-        <td><img src="https://user-images.githubusercontent.com/55986701/241416115-80673657-d9d1-4751-98e8-1e5a39d2c34b.png" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/241415854-721f1e12-1654-4ec7-8378-ee3f52418a25.png" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/241415687-8fd7736a-96b4-4a4e-b3ae-9559a205598b.png" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/241415943-ca00e2d0-fbfb-465b-bf50-41f894fd7768.png" width="300"/><br>
-    </tr>
-    <tr align="center">
-       <td><p>Github for Dev</p>
-       <td><p>Command Prompt 101</p>
-       <td><p>ChatGPT for Dev</p>
-       <td><p>Foundamentals of Graphic Design</p>
-    </tr>
-    <tr align="center">
-        <td><img src="https://user-images.githubusercontent.com/55986701/245218714-2ace77fd-7282-4adc-a704-cad70d729e27.png" width="300"/><br>
-        <td><img src="https://user-images.githubusercontent.com/55986701/217347344-890667ca-4b4c-4590-baa8-67ec7aa03638.jpg" width="300"/><br>
-    <tr align="center">
-       <td><p>IC3 Digital Literacy</p>
-        <td><p>Chula Mooc Basic Python</p>
-    </tr>
     </table>
 </div>
 
-<details><summary> 🎖️ More </summary>
+<details><summary> More ⛱️ </summary>
 <div>
     <table class="styled" align="center">
     <tr align="center">
-       <td><img src="https://user-images.githubusercontent.com/55986701/217353352-1984907d-9f12-45bb-b83e-1c188205ac14.png" width="300"/><br>
-       <td><img src="https://user-images.githubusercontent.com/55986701/217353641-84055723-b883-4390-82f9-47bfdcd438a0.png" width="300"/><br>
-       <td><img src="https://user-images.githubusercontent.com/55986701/241420321-423ff833-3f4d-4b09-9588-21441177b70a.png" width="300"/><br>
+       <td>1<br>
+       <td>2<br>
+       <td>3<br>
     </tr>
     <tr align="center">
     <td>Pre Security Learning Path</p>
@@ -94,6 +58,7 @@ I am a .... from Com-Sci Mahasarakham University
 </div>
 </details>
 -->
+
 <!-- ------------------------------------------------------------------- Roadmap Learning Path -------------------------------------------------------------------- -->
 <div align="center">
    <hr>
@@ -134,8 +99,17 @@ I am a .... from Com-Sci Mahasarakham University
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxMXVlcmZ3eWIzcWdqeTRjNXV6Y2Izd2JsZHN0dGE2NnBlb21nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25RMCYnFKmiCzMFTGd/giphy.gif" width="550"/><br>
    <h3>🧑‍💻🚀 Keep Trying, Keep Working :) </h1>
+
+   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img src="https://profile-counter.glitch.me/NicasioTn/count.svg">
+   </a>
 </div>
 
+<!---------------------------------------------------------------------------- Spotify ---------------------------------------------------------------------------->
+# 🎧 Listen to Music with Me
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&cover_image=true&theme=novatorem&show_offline=false&bar_color=018089&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0lo4nubxlxf7u1c0x8x2laaxj&redirect=true)
+
+<!---------------------------------------------------------------------------- Support ---------------------------------------------------------------------------->
 # 💰 Support Me
 <div id="badges" align="center">
      <a href="https://www.buymeacoffee.com/nicasiotn">
