@@ -106,7 +106,6 @@ I am a .... from Com-Sci Mahasarakham University
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxMXVlcmZ3eWIzcWdqeTRjNXV6Y2Izd2JsZHN0dGE2NnBlb21nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25RMCYnFKmiCzMFTGd/giphy.gif" width="550"/><br>
    <h3>🧑‍💻🚀 Keep Trying, Keep Working :) </h1>
-
    <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img src="https://profile-counter.glitch.me/NicasioTn/count.svg">
    </a>
