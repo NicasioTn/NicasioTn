@@ -12,10 +12,12 @@
 
 <!--  -------------------------------------------------------------------------- Detail of Study and Interested ---------------------------------------------------------------------------->
 ### 🧑‍💻 About me :
-I am a .... from Com-Sci Mahasarakham University
+I am a Studying at Com-Sci Mahasarakham University
 * ⚡In my free time, I'm learning about Network Security on an online course and reading tech articles.
 * 😄 Pronouns: Peter !🕸️🕷️
-* Interested : CyberSecurity 🔴Red & 🔵Blue, 🎮 Game & Video Creator
+* Interested : CyberSecurity both 🔴Red & 🔵Blue
+* Free Time: Complete the TryHackMe Rooms Next to Always Update My Knowledge 🤓
+* Relax Time: 🎮Gamming & Video Creator
 
 ### 🏫 Studying ⛱️
 - 🌱 I’m studying at - Mahasarakham University
@@ -40,14 +42,14 @@ I am a .... from Com-Sci Mahasarakham University
        <tr align="center">
            <td><img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="200"/><br>
            <td><img src="https://tryhackme.com/img/badges/owasptop10.svg" width="200"/>
-           <td><img src="https://tryhackme.com/img/badges/adventofcyber4.svg" width="200"/>
-           <td><img src="https://tryhackme.com/img/badges/hashcracker.svg" width="200"/>
+           <td><img src="https://assets.tryhackme.com/img/badges/blue.svg" width="200"/>
+           <td><img src="https://assets.tryhackme.com/img/badges/streak30.svg" width="200"/>
        </tr>
        <tr align="center">
           <td><p>Pentesting Principles</p>
           <td><p>OWASP Top 10</p>
-          <td><p>Advent of Cyber 4</p>
-          <td><p>Hash Cracker</p>
+          <td>Eternal Blue</p>
+          <td><p>30 Day Streak</p>
        </tr>
     </table>
 </div>
@@ -56,14 +58,36 @@ I am a .... from Com-Sci Mahasarakham University
 <div>
     <table class="styled" align="center">
        <tr align="center">
-          <td><img src="https://tryhackme.com/img/badges/advancedelk.svg" width="150"/>
           <td><img src="https://tryhackme.com/img/badges/linux.svg" width="150"/>
+          <td><img src="https://assets.tryhackme.com/img/badges/streak7.svg" width="150"/>
+          <td><img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" width="150"/>
+          <td><img src="https://tryhackme.com/img/badges/hashcracker.svg" width="150"/>
+       </tr>
+       <tr align="center">
+          <td>cat linux.txt</p>
+          <td><p>7 Day Streak</p>
+          <td>Security Awareness</p>
+          <td>Hash Cracker</td>
+       </tr>
+       <tr align="center">
+          <td><img src="https://assets.tryhackme.com/img/badges/king.svg" width="150"/>
+          <td><img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" width="150"/>
+          <td><img src="https://tryhackme.com/img/badges/adventofcyber4.svg" width="150"/>
+          <td><img src="https://assets.tryhackme.com/img/badges/aoc5sidequest1.svg" width="150"/>
+       </tr>
+       <tr align="center">
+          <td>King of the Hill winner</p>
+          <td>Mr. Robot</td>
+          <td><p>Advent of Cyber 4</p>
+          <td>The Return of the Yeti</p>
+       </tr>
+       <tr align="center">
+          <td><img src="https://tryhackme.com/img/badges/advancedelk.svg" width="150"/>
           <td><img src="https://tryhackme.com/img/badges/threathunting.svg" width="150"/>
        </tr>
        <tr align="center">
-          <td>ELKsquisite</p>
-          <td>cat linux.txt</p>
-          <td>Threat Hunter</p>
+         <td>ELKsquisite</p>
+         <td>Threat Hunter</p>
        </tr>
     </table>
 </div>
