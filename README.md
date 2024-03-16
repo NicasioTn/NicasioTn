@@ -8,7 +8,7 @@
    <h3>🤔 Wh0am1 ?: ❤️🕸️🌀 "NicasioTn" </h3>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=1345b7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science%F0%9F%92%BB;focus+on+Network+and+Cyber+Security⚔️🛡️;My+Award:+8th+Place+ThaiLand+Cyber+Top+Talent+2023🏅;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=1345b7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science%F0%9F%92%BB;focus+on+Network+and+Cyber+Security⚔️🛡️;CTF+Contest:+8th+Place+ThaiLand+Cyber+Top+Talent+2023🏅;)](https://git.io/typing-svg)
 
 <!--  -------------------------------------------------------------------------- Detail of Study and Interested ---------------------------------------------------------------------------->
 ### 🧑‍💻 About me :
