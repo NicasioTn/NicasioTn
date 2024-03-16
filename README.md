@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <h1>สวัสดี(sà-wàt-dee), Welcome to The Profile!</h1>
+   <h1>สวัสดี(sà-wàt-dee), Welcome to My Profile!</h1>
 </div>
 
 <!------------------------------------------------ Picture Spider-Man Image -------------------------------------------------------------------------- -->
