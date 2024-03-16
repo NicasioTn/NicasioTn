@@ -30,7 +30,7 @@ I am a Studying at Com-Sci Mahasarakham University
 ## 🏆 Achievement
 <!-- -------------------------------------------------------------------------- Table of Achievement -------------------------------------------------------------------------- -->
 <div align="center">
-   <h3> Tryhackme </h3>
+   <h3> Tryhackme Badges</h3>
          <a href="https://tryhackme.com/p/nicasio.tn" target="_blank">
             <img src="https://tryhackme-badges.s3.amazonaws.com/nicasio.tn.png" width="300px" alt="TryHackMe"/>
          </a>
@@ -54,7 +54,7 @@ I am a Studying at Com-Sci Mahasarakham University
     </table>
 </div>
 
-<details><summary> ▶️ More ❄️⛄ </summary>
+<details><summary> ▶️ More Badges❄️⛄ </summary>
 <div>
     <table class="styled" align="center">
        <tr align="center">
