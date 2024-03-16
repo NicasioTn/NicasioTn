@@ -32,8 +32,7 @@ I am a Studying at Com-Sci Mahasarakham University
 <div align="center">
    <h3> Tryhackme Badges</h3>
          <a href="https://tryhackme.com/p/nicasio.tn" target="_blank">
-            <img src="https://tryhackme-badges.s3.amazonaws.com/nicasio.tn.png" width="300px" alt="TryHackMe"/>
-         </a>
+         <img src="https://tryhackme-badges.s3.amazonaws.com/nicasio.tn.png" width="300px" alt="TryHackMe">
    <hr>
 </div>
 
