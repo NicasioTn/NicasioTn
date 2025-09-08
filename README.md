@@ -4,24 +4,24 @@
 
 <!------------------------------------------------ Picture Spider-Man Image -------------------------------------------------------------------------- -->
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="1050"/><br>
-   <h3>🤔 Wh0am1 ?: ❤️🕸️🌀 "NicasioTn" </h3>
+   <img src="https://media.giphy.com/media/pzx3gSooxpiHlr3KeS/giphy.gif" width="700" alt="spider-man-marked"/><br>
+   <h3>🤔 Wh0am1 ?: ❤️🕸️🌀 "N1c45107n" </h3>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=1345b7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B;I'm+a+Computer+Science%F0%9F%92%BB;focus+on+Network+and+Cyber+Security⚔️🛡️;CTF+Contest:+8th+Place+ThaiLand+Cyber+Top+Talent+2023🏅;)](https://git.io/typing-svg)
 
 <!--  -------------------------------------------------------------------------- Detail of Study and Interested ---------------------------------------------------------------------------->
 ### 🧑‍💻 About me :
-I am a Studying at Com-Sci Mahasarakham University
-* ⚡In my free time, I'm learning about Network Security on an online course and reading tech articles.
+* ⚡In my free time, I'm learning about Penetration Testing on an online course and Labs Practice.
 * 😄 Pronouns: Peter !🕸️🕷️
-* Interested : CyberSecurity both 🔴Red & 🔵Blue
-* Free Time: Complete the TryHackMe Rooms Next to Always Update My Knowledge 🤓
-* Relax Time: 🎮Gamming & Video Creator
+* Interested : CyberSecurity both 🔴 Red & 🔵 Blue
+* Free Time: Complete the TryHackMe Rooms and Next to Always Update My Knowledge 🤓
+* Relax Time: 🎮Gamming Listening Musics and Video Creator
 
 ### 🏫 Studying ⛱️
-- 🌱 I’m studying at - Mahasarakham University
-- 🧙‍♂️ Online course - TryHackMe | Programing with Networking | Google True x Samart Skills | NCSA CyberSecurity MOOC | born to Dev
+- 🌱 I graduated from Mahasarakham University.
+- 🧙‍♂️ Online course - [🔥] Offsec OSCP | TryHackMe | Hack The Box | Port Swigger | NCSA CyberSecurity MOOC | Born to Dev
+
 
 <!---------------------------------------------------------------------------- Spotify ---------------------------------------------------------------------------->
 <!--## 🎧 Listen to Music with Me
@@ -29,26 +29,32 @@ I am a Studying at Com-Sci Mahasarakham University
 -->
 ## 🏆 Achievement
 <!-- -------------------------------------------------------------------------- Table of Achievement -------------------------------------------------------------------------- -->
+<div>
+    <h3 align="center"> Hack The Box </h3>
+    <table class="styled" align="center">
+       <tr align="center">
+           <td><img src="https://academy.hackthebox.com/storage/paths/17/logo.png" width="200"/><br>
+           <td><img src="https://images.credly.com/size/680x680/images/46525b6b-c65b-45b4-ae45-420dba5af307/blob" width="200"/>
+       </tr>
+       <tr align="center">
+          <td><p>HTB Learning Path</p>
+          <td><p>CWES Exam Completion Badges</p>
+       </tr>
+    </table>
+</div>
 <div align="center">
-   <h3> Tryhackme Badges</h3>
+   <h3> Tryhackme </h3>
          <a href="https://tryhackme.com/p/nicasio.tn" target="_blank">
-         <img src="https://tryhackme-badges.s3.amazonaws.com/nicasio.tn.png" width="300px" alt="TryHackMe">
+         <img src="https://tryhackme-badges.s3.amazonaws.com/nicasio.tn.png" width="300px" alt="TryHackMe Profile">
    <hr>
 </div>
-
 <div>
     <table class="styled" align="center">
        <tr align="center">
-           <td><img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="200"/><br>
-           <td><img src="https://tryhackme.com/img/badges/owasptop10.svg" width="200"/>
-           <td><img src="https://assets.tryhackme.com/img/badges/blue.svg" width="200"/>
-           <td><img src="https://assets.tryhackme.com/img/badges/streak30.svg" width="200"/>
+           <td><img src="https://assets.tryhackme.com/room-badges/5e0a7edf7b49de3c684e38918844c22c.png" width="400px"/><br>
        </tr>
        <tr align="center">
-          <td><p>Pentesting Principles</p>
-          <td><p>OWASP Top 10</p>
-          <td>Eternal Blue</p>
-          <td><p>30 Day Streak</p>
+          <td><p>90 day streak</p>
        </tr>
     </table>
 </div>
@@ -99,10 +105,11 @@ I am a Studying at Com-Sci Mahasarakham University
          <a href="https://roadmap.sh" target="_blank">
             <img src="https://api.roadmap.sh/v1-badge/wide/64e2f567ced78d293533e700?variant=dark" alt="roadmap.sh"/>
          </a>
+         <img width="2688" height="834" alt="image" src="https://github.com/user-attachments/assets/2b061de0-a26f-4692-b7a6-a98db59f3f8d" />
    <hr>
 </div>
 
-<!-- -------------------------------------------------------------------------- Language -------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------- Tools -------------------------------------------------------------------------- -->
 ## ⚒️ Languages and Tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -124,14 +131,11 @@ I am a Studying at Com-Sci Mahasarakham University
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <br>
 </div>
 
-<!-- -------------------------------------------------------------------------- In progress and follow up, wait for feedback -------------------------------------------------------------------------- -->
-## ☃️ In progress and follow up, wait for feedback
+<!-- -------------------------------------------------------------------------- In progress; follow-up pending feedback. -------------------------------------------------------------------------- -->
+## ☃️ In progress; follow-up pending feedback.
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxMXVlcmZ3eWIzcWdqeTRjNXV6Y2Izd2JsZHN0dGE2NnBlb21nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25RMCYnFKmiCzMFTGd/giphy.gif" width="550"/><br>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhxMXVlcmZ3eWIzcWdqeTRjNXV6Y2Izd2JsZHN0dGE2NnBlb21nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25RMCYnFKmiCzMFTGd/giphy.gif" width="550"/ alt="spider-man-train-meme"><br>
    <h3>🧑‍💻🚀 Keep Trying, Keep Working :) </h1>
-   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img src="https://profile-counter.glitch.me/NicasioTn/count.svg">
-   </a>
 </div>
 
 <!---------------------------------------------------------------------------- Support ---------------------------------------------------------------------------->
