@@ -30,6 +30,19 @@
 ## 🏆 Achievement
 <!-- -------------------------------------------------------------------------- Table of Achievement -------------------------------------------------------------------------- -->
 <div>
+    <h3 align="center"> Offensive Security (OffSec) </h3>
+    <table class="styled" align="center">
+       <tr align="center">
+           <td><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/168947141" width="200"/><br>
+           <td><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/168944771" width="200"/>
+       </tr>
+       <tr align="center">
+          <td><p>OffSec Certified Professional (OSCP)</p>
+          <td><p>OffSec Certified Professional+ (OSCP+)</p>
+       </tr>
+    </table>
+</div>
+<div>
     <h3 align="center"> Hack The Box </h3>
     <table class="styled" align="center">
        <tr align="center">
