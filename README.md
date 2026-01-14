@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://roadmap.sh" target="_blank">
-    <img src="https://api.roadmap.sh/v1-badge/wide/64e2f567ced78d293533e700?variant=dark" />
+    <img src="https://roadmap.sh/card/wide/64e2f567ced78d293533e700?variant=dark" />
   </a>
 </div>
 
